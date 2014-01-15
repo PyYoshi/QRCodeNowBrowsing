@@ -1,0 +1,7 @@
+*.iml
+.idea/
+node_modules/
+
+crx/main.js
+crx/main.js.map
+crx/main.src.coffee
